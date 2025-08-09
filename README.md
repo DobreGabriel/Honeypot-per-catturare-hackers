@@ -1,4 +1,4 @@
-# 🐝 Honeypot: Come Costruire un Sistema per Catturare Hacker usando VM Linux
+# Honeypot: Costruire un Sistema per Catturare Hacker usando VM Linux
 ---
 
 ## Obiettivi
